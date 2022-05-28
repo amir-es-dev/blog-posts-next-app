@@ -1,0 +1,30 @@
+.post {
+  background-color: tomato;
+  padding: 2rem;
+  text-align: center;
+}
+
+.post_content {
+  background-color: lightblue;
+  border-radius: 10px;
+  padding: 1rem;
+  margin-bottom: 0.5rem;
+}
+
+.comments_box {
+  background-color: yellow;
+  padding: 1rem;
+  border-radius: 10px;
+}
+
+.comment {
+  background-color: lightgreen;
+  padding: 1rem;
+  margin-bottom: 0.5rem;
+  border-radius: 10px;
+}
+
+.info {
+  display: flex;
+  justify-content: space-between;
+}
